@@ -5,8 +5,11 @@ SSH Port: 2200 <br>
 URL: http://ec2-52-11-96-19.us-west-2.compute.amazonaws.com/login <br>
 
 ### Login Instructions
-- Click on URL Link above
-- 
+
+Click on the URL link above
+Hit the Login button and sign-on with G+ account
+![Login Button](/login.png?raw=true "login")
+
 
 ### Software Installed
 pip install dict2xml
