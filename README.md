@@ -4,6 +4,10 @@ IP Address: 52.11.96.19 <br>
 SSH Port: 2200 <br>
 URL: http://ec2-52-11-96-19.us-west-2.compute.amazonaws.com/login <br>
 
+### Login Instructions
+- Click on URL Link above
+- 
+
 ### Software Installed
 pip install dict2xml
 pip install Flask
@@ -35,7 +39,7 @@ sudo pip install werkzeug==0.8.3
 
 ### Configuration Changes Made
 ## User Management
-- create new user grader with sudo permissions
+- create new user grader with sudo permissions (password provided in review submission to Udacity reviewer)
 - sudo commands prompt for user password at least once.
 - Remote login of the root user has been disabled.
 - A remote user is given sudo access.
